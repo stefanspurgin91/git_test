@@ -1,1 +1,1 @@
-# Ovo je Lazarov reprozitorijum!
+# Ovo je Lazarov prvi reprozitorijum!
